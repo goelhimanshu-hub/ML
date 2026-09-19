@@ -1,0 +1,601 @@
+Age,Gender,Married,Education,Employment,City,Dependents,Income,LoanAmount,CreditScore,TermMonths,Approved
+25,Female,Yes,Graduate,Self-Employed,Bengaluru,0,49000.0,50000.0,672,84,N
+55,Male,Yes,Postgraduate,Salaried,Mumbai,4,,50000.0,705,24,Y
+50,Male,Yes,,Self-Employed,Mumbai,2,66300.0,50000.0,730,84,Y
+40,Male,Yes,Graduate,Business,Pune,1,65000.0,50000.0,673,36,Y
+40,Female,No,Postgraduate,Self-Employed,Bengaluru,2,68400.0,50000.0,756,60,Y
+59,Male,No,Graduate,Self-Employed,Mumbai,1,74700.0,50000.0,,60,Y
+24,Male,Yes,Graduate,Self-Employed,Pune,4,39000.0,50000.0,735,12,Y
+52,Female,Yes,Graduate,,Delhi,4,48900.0,50000.0,646,12,Y
+30,Male,,,Salaried,Delhi,0,22100.0,50000.0,553,84,N
+25,Male,Yes,Graduate,Salaried,Bengaluru,3,62400.0,50000.0,699,84,Y
+44,Male,No,High School,Salaried,Lucknow,1,,50000.0,731,12,Y
+64,Male,No,High School,Salaried,Delhi,0,47800.0,50000.0,720,60,N
+54,Male,No,,Salaried,Delhi,4,,50000.0,710,84,N
+55,Male,No,Graduate,Self-Employed,Delhi,0,69300.0,60000.0,656,84,Y
+53,Male,No,Postgraduate,Salaried,Pune,1,107500.0,72000.0,624,24,Y
+56,Male,No,High School,,Delhi,0,54300.0,50000.0,719,84,Y
+44,Male,Yes,High School,Salaried,Mumbai,2,61400.0,50000.0,710,60,Y
+26,Female,Yes,Postgraduate,Salaried,Lucknow,2,68700.0,50000.0,641,84,Y
+58,Male,Yes,High School,Salaried,Delhi,1,64000.0,60000.0,758,12,Y
+41,Female,Yes,High School,Salaried,Bengaluru,0,27000.0,50000.0,618,60,N
+43,Female,Yes,High School,Salaried,Mumbai,0,56100.0,50000.0,639,12,N
+37,Male,No,Graduate,Salaried,Pune,4,50400.0,50000.0,795,24,Y
+29,Male,Yes,Postgraduate,Salaried,Mumbai,4,77600.0,50000.0,741,12,Y
+62,Male,Yes,Graduate,Salaried,Mumbai,4,67100.0,50000.0,655,36,Y
+56,Female,Yes,Graduate,Salaried,Delhi,2,73600.0,50000.0,700,84,Y
+49,Female,Yes,High School,,Bengaluru,2,54400.0,50000.0,691,60,Y
+39,Female,Yes,Graduate,Salaried,Pune,3,54400.0,50000.0,488,24,N
+58,Male,No,Graduate,Salaried,Delhi,3,78200.0,56000.0,617,36,N
+45,Female,Yes,High School,Salaried,Mumbai,2,43400.0,50000.0,676,24,Y
+40,Male,No,High School,Salaried,Pune,1,34300.0,50000.0,655,60,N
+41,Female,Yes,Graduate,Salaried,Delhi,2,77300.0,50000.0,697,24,Y
+31,Male,Yes,High School,Self-Employed,Delhi,0,46600.0,50000.0,,12,Y
+25,Female,Yes,Graduate,Business,Bengaluru,0,34500.0,50000.0,657,36,N
+45,Female,No,Graduate,Business,Mumbai,3,68400.0,50000.0,606,84,N
+60,Male,No,High School,Salaried,Delhi,4,51200.0,50000.0,703,36,Y
+23,Female,Yes,Graduate,Salaried,Mumbai,0,27600.0,50000.0,657,24,Y
+59,Male,No,Graduate,Salaried,Delhi,0,86600.0,50000.0,669,12,Y
+58,Female,Yes,Graduate,,Mumbai,0,,50000.0,660,84,Y
+33,Male,No,Postgraduate,Self-Employed,Bengaluru,3,81900.0,50000.0,837,60,Y
+49,Female,Yes,Graduate,Self-Employed,Bengaluru,1,62200.0,50000.0,523,12,N
+28,Male,Yes,Postgraduate,Business,Delhi,1,63800.0,50000.0,653,12,Y
+55,Female,No,High School,Salaried,Pune,0,60500.0,50000.0,680,12,N
+52,Female,Yes,Graduate,Self-Employed,Delhi,4,74900.0,64000.0,625,24,N
+36,Male,Yes,High School,Self-Employed,Pune,2,28600.0,50000.0,743,84,Y
+24,Female,Yes,Graduate,Salaried,Mumbai,3,51300.0,50000.0,737,12,Y
+64,Female,Yes,Graduate,Business,,3,80100.0,50000.0,677,84,N
+41,Female,No,High School,Salaried,Delhi,0,27900.0,50000.0,661,12,N
+61,Male,No,Graduate,Business,Delhi,4,,50000.0,672,60,N
+51,Male,No,Graduate,Self-Employed,Mumbai,2,83600.0,78000.0,673,24,Y
+56,Male,Yes,High School,,Delhi,3,76600.0,67000.0,675,84,N
+55,Female,Yes,High School,Self-Employed,Delhi,1,64200.0,50000.0,667,36,N
+,Male,Yes,Graduate,Salaried,Bengaluru,4,32900.0,50000.0,698,24,Y
+37,Male,Yes,Graduate,Self-Employed,Pune,4,60300.0,50000.0,733,24,Y
+42,Male,Yes,Graduate,Self-Employed,Delhi,2,69100.0,50000.0,594,84,N
+43,Male,No,High School,Self-Employed,Pune,0,53500.0,50000.0,,36,N
+22,Male,No,Graduate,Business,Pune,4,50300.0,50000.0,558,24,N
+45,Female,No,,Salaried,Pune,4,86000.0,70000.0,741,60,Y
+27,Female,Yes,Graduate,Salaried,Bengaluru,2,,50000.0,698,36,Y
+54,Male,Yes,Graduate,,Bengaluru,2,62400.0,60000.0,,60,Y
+,Male,Yes,Postgraduate,Salaried,Mumbai,1,64200.0,50000.0,580,36,N
+,Female,Yes,Postgraduate,Salaried,Bengaluru,0,,83000.0,805,12,Y
+54,Male,Yes,Graduate,Salaried,Lucknow,4,71900.0,62000.0,637,12,N
+37,Male,Yes,Postgraduate,Salaried,Delhi,2,81100.0,50000.0,692,12,Y
+64,Male,Yes,Postgraduate,Salaried,Mumbai,1,82600.0,50000.0,740,36,Y
+39,Female,No,Graduate,Business,,3,,50000.0,611,36,N
+35,Male,Yes,Graduate,Salaried,Lucknow,0,77300.0,66000.0,,60,Y
+61,Female,No,High School,Business,Mumbai,0,61900.0,50000.0,693,84,N
+37,Female,Yes,High School,Salaried,Bengaluru,1,,50000.0,880,12,Y
+24,Male,Yes,Graduate,Salaried,Pune,2,46400.0,50000.0,701,84,Y
+42,Female,Yes,Graduate,Salaried,Lucknow,1,,50000.0,792,84,Y
+56,Female,Yes,Graduate,Salaried,,0,59200.0,50000.0,764,60,Y
+29,Male,Yes,Graduate,Salaried,Pune,1,49600.0,50000.0,706,36,N
+41,Male,Yes,Graduate,Salaried,Pune,1,48400.0,50000.0,611,12,N
+26,Male,No,Postgraduate,Salaried,Delhi,2,,50000.0,754,12,Y
+51,Male,Yes,High School,Salaried,Pune,2,,50000.0,575,12,N
+42,Male,Yes,High School,Salaried,Mumbai,4,,50000.0,792,60,Y
+35,Female,Yes,Graduate,Salaried,,4,74200.0,71000.0,694,36,Y
+,Male,Yes,Postgraduate,Self-Employed,Mumbai,1,74400.0,50000.0,494,12,N
+46,Male,Yes,Postgraduate,Salaried,Delhi,4,78000.0,50000.0,656,12,Y
+51,Female,Yes,Postgraduate,Business,Delhi,2,116900.0,50000.0,726,12,Y
+63,Male,No,Postgraduate,Self-Employed,,0,92700.0,50000.0,663,60,Y
+,Female,No,Graduate,Business,Delhi,1,50200.0,50000.0,730,60,Y
+28,Female,No,Graduate,Self-Employed,Bengaluru,3,25000.0,50000.0,620,60,N
+58,Male,Yes,High School,Salaried,Mumbai,4,75100.0,50000.0,589,12,N
+49,Male,Yes,Graduate,,,1,76800.0,50000.0,675,12,Y
+52,Female,No,Postgraduate,Salaried,Bengaluru,0,116900.0,78000.0,682,12,Y
+25,Female,Yes,Graduate,Self-Employed,Bengaluru,0,26900.0,50000.0,656,60,N
+35,Female,Yes,Graduate,Salaried,Mumbai,0,,52000.0,766,60,Y
+55,Male,Yes,High School,Salaried,Lucknow,3,56400.0,50000.0,620,24,N
+58,Female,No,High School,Business,Mumbai,2,68000.0,51000.0,702,12,N
+40,Female,Yes,High School,Salaried,Pune,2,22300.0,50000.0,685,24,N
+57,Male,No,High School,Salaried,Delhi,3,,50000.0,571,84,N
+58,Male,No,Postgraduate,Self-Employed,,4,102700.0,50000.0,588,12,Y
+38,Female,Yes,Graduate,Salaried,Lucknow,3,54800.0,50000.0,681,60,Y
+61,Male,No,Postgraduate,Salaried,Pune,0,,66000.0,819,36,Y
+33,Male,Yes,Graduate,Self-Employed,Bengaluru,2,41600.0,50000.0,,12,N
+31,Female,Yes,,Salaried,Bengaluru,4,27000.0,50000.0,559,84,N
+51,Male,Yes,High School,Salaried,Mumbai,3,46400.0,50000.0,462,36,N
+49,Male,No,Postgraduate,Salaried,Bengaluru,1,63000.0,50000.0,731,60,Y
+27,Male,Yes,High School,Self-Employed,Pune,1,40700.0,50000.0,673,12,N
+58,Male,Yes,Postgraduate,,Lucknow,4,107600.0,50000.0,760,24,Y
+29,Female,Yes,High School,Business,Mumbai,0,23800.0,50000.0,618,60,N
+57,Female,Yes,Graduate,Business,Delhi,2,76600.0,50000.0,705,60,Y
+21,Male,Yes,Postgraduate,Salaried,Bengaluru,0,56800.0,50000.0,739,12,Y
+56,Female,Yes,High School,Salaried,Delhi,4,60400.0,55000.0,649,60,N
+56,Female,Yes,High School,Salaried,Delhi,0,49000.0,50000.0,650,84,Y
+56,Male,,Postgraduate,Self-Employed,Mumbai,0,80900.0,69000.0,682,60,Y
+50,Female,Yes,High School,Salaried,Bengaluru,1,63700.0,50000.0,718,24,Y
+42,Male,No,Graduate,Salaried,Delhi,1,58100.0,50000.0,679,84,Y
+52,Female,Yes,Graduate,Salaried,Delhi,2,,59000.0,748,60,Y
+33,Female,No,High School,,Delhi,1,36400.0,50000.0,648,12,Y
+56,Female,Yes,Graduate,Salaried,Pune,1,,50000.0,587,12,N
+46,Male,Yes,Graduate,Business,Bengaluru,2,77200.0,50000.0,818,84,Y
+41,Female,No,Graduate,Salaried,Delhi,2,65600.0,50000.0,638,24,N
+43,Male,Yes,Postgraduate,Business,Delhi,4,88500.0,50000.0,640,12,N
+46,Male,Yes,High School,,Bengaluru,2,61800.0,50000.0,675,36,N
+22,Male,No,High School,Salaried,Delhi,2,18100.0,50000.0,685,36,N
+27,Female,No,Graduate,Business,Bengaluru,3,43900.0,50000.0,653,36,N
+32,Male,Yes,Postgraduate,Business,Mumbai,0,,50000.0,679,60,Y
+26,Female,Yes,High School,Salaried,Lucknow,3,14000.0,50000.0,677,84,N
+40,Female,No,High School,,Delhi,4,38900.0,50000.0,692,60,N
+51,Male,No,Graduate,Salaried,Bengaluru,1,,50000.0,515,12,N
+50,Male,No,Postgraduate,Salaried,Delhi,0,88900.0,75000.0,812,12,Y
+42,Male,Yes,High School,Salaried,Lucknow,1,,50000.0,670,12,N
+59,Female,No,Graduate,Business,Lucknow,1,55500.0,50000.0,721,24,Y
+46,Female,Yes,Graduate,Salaried,Bengaluru,2,82500.0,50000.0,584,24,N
+24,Male,No,Graduate,Self-Employed,Mumbai,4,41600.0,50000.0,647,84,N
+55,Female,Yes,High School,,Delhi,2,47800.0,50000.0,633,24,N
+46,Male,No,High School,Salaried,Pune,0,44200.0,50000.0,783,12,Y
+49,Female,Yes,Graduate,Self-Employed,Bengaluru,1,47500.0,50000.0,639,84,N
+46,Female,Yes,Graduate,Salaried,Delhi,3,79600.0,52000.0,733,24,Y
+45,Female,No,Postgraduate,Self-Employed,Mumbai,1,76900.0,50000.0,634,84,N
+25,Female,Yes,Graduate,Salaried,Mumbai,2,60000.0,50000.0,648,60,N
+46,Female,No,Graduate,Business,Pune,3,63100.0,58000.0,663,84,Y
+56,Male,Yes,Postgraduate,Self-Employed,Bengaluru,1,108700.0,86000.0,,84,Y
+34,Male,Yes,Graduate,Business,,3,54800.0,50000.0,548,12,N
+48,Male,Yes,Graduate,Salaried,Bengaluru,1,74500.0,50000.0,588,60,N
+22,Male,Yes,Postgraduate,Salaried,Delhi,0,69500.0,58000.0,544,36,N
+36,Female,Yes,High School,,Mumbai,1,46000.0,50000.0,604,60,Y
+40,Female,Yes,Graduate,,Delhi,2,61300.0,50000.0,623,60,N
+65,Female,Yes,,Salaried,Pune,0,76800.0,55000.0,567,36,N
+30,Male,No,High School,Salaried,Mumbai,4,56100.0,50000.0,629,24,N
+33,Female,,Graduate,Salaried,Mumbai,2,39900.0,50000.0,539,84,N
+39,Male,No,High School,Salaried,Delhi,0,41300.0,50000.0,609,60,N
+65,Male,Yes,High School,Salaried,Delhi,4,64800.0,60000.0,764,84,Y
+59,Female,Yes,Graduate,Salaried,Bengaluru,4,79000.0,50000.0,708,24,N
+22,Female,Yes,High School,Salaried,Delhi,0,20700.0,50000.0,693,84,N
+31,Female,No,,Self-Employed,Delhi,0,52800.0,50000.0,610,24,N
+57,Male,No,,Salaried,Pune,1,90400.0,50000.0,572,36,N
+23,Female,Yes,Postgraduate,Salaried,Mumbai,2,42800.0,50000.0,600,84,N
+59,Male,No,High School,Salaried,Mumbai,3,59300.0,50000.0,677,24,N
+33,Female,Yes,High School,Self-Employed,Mumbai,2,22600.0,50000.0,741,24,N
+62,Female,Yes,High School,Salaried,Pune,3,41100.0,50000.0,743,84,Y
+34,Male,Yes,High School,Salaried,Mumbai,0,38300.0,50000.0,724,84,N
+40,Male,,,Business,Pune,3,83000.0,50000.0,,24,Y
+50,Male,No,Graduate,Salaried,Lucknow,4,72400.0,50000.0,682,24,Y
+26,Female,No,High School,Business,Bengaluru,2,36300.0,50000.0,658,24,N
+46,Male,Yes,Postgraduate,Self-Employed,Mumbai,2,59300.0,50000.0,666,12,Y
+43,Female,Yes,Graduate,Salaried,Bengaluru,1,43500.0,50000.0,823,36,Y
+,Female,No,,,Mumbai,4,80200.0,50000.0,,24,N
+65,Male,No,High School,Self-Employed,Mumbai,0,52000.0,50000.0,664,84,N
+50,Male,Yes,Graduate,Business,Mumbai,1,73400.0,50000.0,765,12,Y
+39,Female,Yes,Graduate,Salaried,Mumbai,0,48000.0,50000.0,577,60,N
+39,Male,Yes,High School,,Delhi,4,42200.0,50000.0,635,36,N
+39,Male,Yes,Postgraduate,Salaried,Mumbai,2,68600.0,52000.0,643,60,N
+57,Female,No,Postgraduate,Salaried,Delhi,4,99100.0,50000.0,,12,Y
+35,Female,Yes,Postgraduate,Self-Employed,Mumbai,3,74200.0,66000.0,568,36,N
+28,Female,No,High School,Salaried,Bengaluru,2,25900.0,50000.0,722,60,Y
+36,Male,Yes,High School,Self-Employed,Lucknow,2,25900.0,50000.0,727,24,Y
+22,Male,Yes,Postgraduate,Business,Delhi,1,64100.0,50000.0,716,84,Y
+25,Male,No,Graduate,Self-Employed,Bengaluru,2,29000.0,50000.0,,36,N
+25,Male,Yes,Graduate,Self-Employed,Mumbai,3,48700.0,50000.0,686,24,N
+55,Male,Yes,Graduate,Self-Employed,Delhi,4,102100.0,86000.0,617,12,Y
+53,Male,No,High School,,Delhi,2,70000.0,63000.0,657,12,N
+52,Male,No,Graduate,,Delhi,4,76500.0,50000.0,831,36,Y
+41,Male,Yes,Postgraduate,Salaried,Delhi,4,,50000.0,687,36,Y
+53,Male,Yes,Graduate,Salaried,Delhi,2,45500.0,50000.0,597,84,N
+28,Female,Yes,Graduate,,Mumbai,2,30400.0,50000.0,693,60,N
+61,Female,Yes,Postgraduate,Business,Mumbai,0,,50000.0,585,12,Y
+43,Male,Yes,Graduate,Self-Employed,Delhi,1,50300.0,50000.0,596,36,N
+63,Male,Yes,Graduate,Salaried,Delhi,4,69400.0,50000.0,607,36,N
+27,Male,No,Postgraduate,Salaried,Delhi,0,63400.0,50000.0,649,12,N
+43,Male,No,Graduate,Salaried,Mumbai,1,47100.0,50000.0,746,60,Y
+52,Male,No,High School,,Mumbai,3,38200.0,50000.0,720,36,N
+43,Male,No,High School,Salaried,Mumbai,1,44200.0,50000.0,717,12,N
+41,Male,No,High School,Salaried,Delhi,4,32300.0,50000.0,603,36,N
+,Male,No,Graduate,Business,Delhi,3,37400.0,50000.0,642,60,N
+38,Male,No,Graduate,Self-Employed,Lucknow,0,45900.0,50000.0,699,24,Y
+31,Male,Yes,Graduate,Salaried,Delhi,1,55300.0,50000.0,636,24,Y
+34,Male,Yes,Graduate,Salaried,Delhi,3,48900.0,50000.0,661,12,Y
+51,Female,Yes,Graduate,Business,Delhi,4,64900.0,50000.0,711,24,Y
+49,Female,Yes,Postgraduate,Self-Employed,Lucknow,4,,50000.0,656,84,Y
+,Female,Yes,High School,Self-Employed,Bengaluru,4,47600.0,50000.0,696,60,N
+37,Male,Yes,Graduate,Salaried,Bengaluru,0,51100.0,50000.0,791,12,Y
+64,Female,Yes,,Salaried,Lucknow,3,84300.0,76000.0,668,36,Y
+24,Male,Yes,Graduate,,Delhi,0,50700.0,50000.0,763,12,Y
+36,Male,Yes,High School,Self-Employed,Lucknow,0,36700.0,50000.0,719,36,N
+26,Female,No,,Salaried,Delhi,3,45500.0,50000.0,577,12,N
+36,Male,No,,Salaried,Bengaluru,2,64100.0,50000.0,603,60,N
+64,Male,Yes,Graduate,,Mumbai,3,68400.0,50000.0,622,36,N
+37,Female,Yes,Postgraduate,Business,Mumbai,4,83600.0,65000.0,620,60,Y
+61,Female,Yes,Postgraduate,Self-Employed,Lucknow,0,101300.0,50000.0,674,36,Y
+43,Female,No,Graduate,Salaried,Delhi,2,65300.0,50000.0,723,24,Y
+52,Male,No,Graduate,Salaried,Lucknow,4,71300.0,57000.0,768,24,Y
+,Male,Yes,Graduate,Salaried,Mumbai,2,58600.0,50000.0,702,24,Y
+32,Female,,Postgraduate,Salaried,Bengaluru,2,78300.0,50000.0,649,36,Y
+,Male,Yes,High School,,Lucknow,2,66800.0,50000.0,534,36,N
+64,Female,,Graduate,Salaried,Delhi,4,89600.0,54000.0,685,60,Y
+32,Male,No,Postgraduate,Salaried,Lucknow,0,,50000.0,682,12,Y
+56,Male,Yes,High School,Business,,4,584800.0,50000.0,,24,N
+32,Male,Yes,Graduate,Business,Bengaluru,4,52600.0,50000.0,827,84,Y
+53,Female,Yes,Graduate,Salaried,Delhi,4,76400.0,50000.0,767,84,Y
+56,Male,Yes,Postgraduate,Salaried,Mumbai,2,94900.0,63000.0,735,84,Y
+41,Male,No,Postgraduate,Salaried,Bengaluru,2,81000.0,50000.0,613,24,N
+54,Male,No,Graduate,Salaried,Mumbai,1,,50000.0,644,12,N
+33,Male,Yes,,Salaried,Delhi,1,59200.0,50000.0,673,12,N
+24,Male,Yes,Graduate,Salaried,Delhi,4,76800.0,50000.0,626,12,N
+25,Female,No,Graduate,Self-Employed,Pune,2,39100.0,50000.0,715,84,Y
+41,Male,Yes,Graduate,Salaried,Delhi,3,58900.0,50000.0,705,84,Y
+61,Female,No,Postgraduate,Business,Bengaluru,0,90600.0,81000.0,604,84,N
+26,Female,No,High School,Salaried,Lucknow,3,23600.0,50000.0,764,60,N
+41,Male,Yes,High School,Salaried,,3,61500.0,50000.0,687,24,N
+52,Male,No,Graduate,Salaried,Delhi,4,59800.0,50000.0,559,36,N
+30,Female,Yes,Graduate,Salaried,Bengaluru,0,42400.0,50000.0,676,84,N
+53,Male,Yes,Graduate,Salaried,Delhi,2,49800.0,50000.0,700,84,N
+34,Male,Yes,High School,Business,Bengaluru,2,27600.0,50000.0,748,36,Y
+57,Female,Yes,Graduate,Salaried,Bengaluru,2,51900.0,50000.0,656,84,N
+,Female,No,Postgraduate,Salaried,Bengaluru,0,91000.0,50000.0,738,24,Y
+45,Female,No,High School,Salaried,Mumbai,2,,50000.0,693,36,Y
+28,Male,No,Graduate,Salaried,Bengaluru,1,41900.0,50000.0,588,84,N
+41,Female,No,Postgraduate,Salaried,Bengaluru,3,58000.0,51000.0,581,24,N
+,Female,Yes,High School,Salaried,Delhi,1,70000.0,63000.0,759,60,Y
+21,Male,Yes,Graduate,Self-Employed,Bengaluru,2,,50000.0,764,36,Y
+55,Female,No,High School,Salaried,Pune,3,71200.0,50000.0,703,24,Y
+43,Male,No,Postgraduate,Salaried,Bengaluru,0,76400.0,50000.0,785,24,Y
+53,Male,Yes,Graduate,Self-Employed,Mumbai,3,61200.0,50000.0,754,60,Y
+50,Male,Yes,Postgraduate,Business,Mumbai,3,84000.0,54000.0,728,36,Y
+40,Male,Yes,High School,Salaried,Delhi,0,51200.0,50000.0,616,24,N
+,Male,Yes,Graduate,Salaried,Delhi,0,49000.0,50000.0,801,60,Y
+49,Female,No,Graduate,Salaried,Delhi,4,59200.0,56000.0,718,12,N
+27,Female,Yes,,Salaried,Lucknow,1,28000.0,50000.0,653,12,N
+47,Male,No,High School,Salaried,Delhi,4,33100.0,50000.0,633,84,N
+25,Female,,High School,Self-Employed,Pune,2,33400.0,50000.0,698,60,Y
+50,Female,No,Postgraduate,Salaried,Delhi,1,64700.0,50000.0,563,36,N
+49,Male,Yes,Graduate,Self-Employed,Delhi,1,59900.0,50000.0,729,12,Y
+24,Male,Yes,Graduate,Salaried,Mumbai,3,51800.0,50000.0,613,36,N
+55,Male,No,Graduate,Business,Mumbai,0,74200.0,50000.0,706,36,Y
+,Male,No,Graduate,Self-Employed,Pune,2,,53000.0,643,36,N
+56,Female,Yes,Graduate,Salaried,Lucknow,1,70700.0,50000.0,661,12,N
+22,Male,No,Graduate,Salaried,Pune,0,54900.0,50000.0,627,36,N
+29,Male,Yes,Graduate,Salaried,Delhi,1,58300.0,50000.0,669,36,N
+,Male,No,High School,Business,Pune,2,50200.0,50000.0,812,24,Y
+,Male,Yes,Postgraduate,Salaried,Delhi,3,78300.0,50000.0,777,12,Y
+35,Female,Yes,Postgraduate,,Lucknow,0,81600.0,50000.0,705,84,Y
+50,Male,Yes,Graduate,Salaried,,4,60800.0,50000.0,678,60,N
+27,Male,Yes,Graduate,Self-Employed,Mumbai,4,29300.0,50000.0,739,60,N
+51,Male,Yes,High School,Salaried,Delhi,3,,54000.0,,60,Y
+25,Male,Yes,Postgraduate,Salaried,Delhi,4,70200.0,50000.0,622,60,N
+,Male,Yes,Postgraduate,Business,Delhi,2,79400.0,71000.0,675,12,Y
+47,Male,No,Postgraduate,,Lucknow,4,,50000.0,552,36,N
+56,Male,Yes,Graduate,Self-Employed,Pune,3,60600.0,50000.0,759,84,Y
+28,Male,No,High School,Salaried,Lucknow,2,36800.0,50000.0,825,24,Y
+34,Female,No,High School,Salaried,,0,35800.0,50000.0,686,84,Y
+62,Female,Yes,High School,Business,Bengaluru,2,39300.0,50000.0,531,12,N
+65,Female,Yes,High School,Self-Employed,Delhi,4,69100.0,50000.0,723,24,Y
+47,Female,No,High School,,Mumbai,4,,50000.0,617,24,N
+41,Female,No,Postgraduate,Salaried,Mumbai,2,66700.0,56000.0,634,60,Y
+36,Male,Yes,,Salaried,,1,54700.0,51000.0,724,12,Y
+48,Male,No,High School,Salaried,Bengaluru,3,71200.0,50000.0,,24,N
+47,Male,Yes,,Salaried,Delhi,0,,50000.0,646,60,N
+34,Male,Yes,Graduate,Salaried,Mumbai,0,47700.0,50000.0,635,24,N
+22,Female,No,Graduate,Salaried,Bengaluru,2,41400.0,50000.0,689,84,Y
+27,Male,Yes,Graduate,Salaried,Delhi,4,66800.0,58000.0,651,84,N
+64,Female,No,Postgraduate,Salaried,Lucknow,1,92800.0,50000.0,602,24,Y
+39,Female,Yes,,Salaried,Mumbai,2,50500.0,50000.0,657,36,Y
+42,Male,No,Graduate,Salaried,Pune,1,77500.0,50000.0,704,24,Y
+42,Female,Yes,Graduate,Business,Bengaluru,2,54400.0,50000.0,668,24,Y
+56,Male,Yes,Graduate,Self-Employed,Bengaluru,0,80200.0,50000.0,581,60,N
+23,Female,Yes,Graduate,Salaried,Bengaluru,2,24100.0,50000.0,,24,Y
+,Male,Yes,Graduate,Self-Employed,,2,40600.0,50000.0,488,12,N
+33,Male,No,High School,Self-Employed,Bengaluru,1,15900.0,50000.0,649,24,N
+42,Male,Yes,Graduate,Salaried,Delhi,1,46200.0,50000.0,637,84,N
+,Male,Yes,High School,Salaried,Delhi,3,62100.0,50000.0,690,24,Y
+43,Male,Yes,High School,Salaried,Bengaluru,0,44200.0,50000.0,719,24,Y
+40,Female,Yes,High School,Salaried,Delhi,0,38300.0,50000.0,759,60,Y
+,Female,No,Postgraduate,Self-Employed,Delhi,0,88800.0,53000.0,,12,Y
+28,Male,,Graduate,Business,Delhi,4,43700.0,50000.0,721,24,Y
+46,Male,No,Graduate,Salaried,Mumbai,1,66100.0,53000.0,694,12,Y
+45,Male,Yes,Postgraduate,Self-Employed,Delhi,0,,50000.0,560,84,N
+42,Male,No,High School,Salaried,Bengaluru,4,12400.0,50000.0,813,84,N
+57,Female,Yes,Graduate,Salaried,Pune,0,62400.0,50000.0,579,60,N
+,Male,Yes,Graduate,Self-Employed,Pune,1,52700.0,50000.0,,24,N
+63,Male,No,High School,Salaried,Mumbai,0,61600.0,50000.0,707,60,N
+35,Male,No,Graduate,Salaried,Mumbai,3,57400.0,50000.0,699,60,Y
+45,Male,No,Postgraduate,Salaried,Bengaluru,3,84800.0,50000.0,645,84,Y
+44,Male,Yes,High School,Business,Mumbai,3,42000.0,50000.0,738,12,Y
+59,Female,Yes,Graduate,Salaried,Bengaluru,1,67900.0,53000.0,571,60,N
+40,Female,No,High School,Salaried,Delhi,1,39200.0,50000.0,675,12,N
+33,Female,Yes,Graduate,Salaried,Lucknow,4,64600.0,50000.0,641,36,N
+,Female,No,Graduate,Salaried,Delhi,4,31200.0,50000.0,633,84,N
+37,Male,Yes,Graduate,Salaried,Pune,0,,50000.0,710,12,Y
+58,Female,Yes,Graduate,Self-Employed,Bengaluru,3,,50000.0,755,12,Y
+21,Female,No,High School,Self-Employed,Delhi,4,43700.0,50000.0,656,84,Y
+61,Female,No,Graduate,,Bengaluru,2,72400.0,50000.0,,12,Y
+45,Female,Yes,Graduate,Self-Employed,Delhi,3,,50000.0,683,60,Y
+27,Female,Yes,Graduate,Salaried,Pune,0,60200.0,50000.0,618,36,N
+34,Female,Yes,High School,Salaried,Bengaluru,0,35900.0,50000.0,662,24,Y
+45,Male,Yes,Graduate,Salaried,Delhi,0,59100.0,50000.0,659,84,Y
+35,Female,Yes,Graduate,Salaried,Delhi,0,48700.0,50000.0,631,84,N
+25,Male,Yes,High School,Business,Pune,4,,50000.0,710,24,N
+,Male,No,High School,Self-Employed,Delhi,3,,50000.0,696,12,N
+51,Female,No,Graduate,Business,Pune,3,69800.0,59000.0,569,12,N
+26,Female,Yes,Graduate,Salaried,Pune,1,47300.0,50000.0,564,12,N
+33,Female,Yes,High School,Salaried,Bengaluru,4,,50000.0,710,84,N
+31,Male,Yes,Postgraduate,Salaried,Delhi,0,57400.0,50000.0,623,36,N
+50,Female,Yes,Graduate,Salaried,,4,91800.0,67000.0,701,60,Y
+53,Female,Yes,Graduate,Salaried,Lucknow,0,66700.0,50000.0,735,24,Y
+53,Male,Yes,Graduate,Salaried,Delhi,0,,50000.0,591,84,N
+63,Male,No,Graduate,Salaried,Mumbai,0,95000.0,76000.0,581,60,N
+55,Male,Yes,Graduate,Business,Delhi,3,74000.0,50000.0,797,60,Y
+35,Female,Yes,Postgraduate,Salaried,Mumbai,1,79500.0,57000.0,705,36,Y
+25,Male,Yes,Graduate,Salaried,Bengaluru,2,41900.0,50000.0,651,60,N
+48,Female,No,Graduate,Self-Employed,Mumbai,2,60500.0,50000.0,615,36,N
+62,Male,Yes,Graduate,Salaried,Bengaluru,3,74900.0,50000.0,644,24,Y
+64,Female,Yes,Graduate,Business,Mumbai,1,62100.0,50000.0,597,36,N
+31,Male,No,High School,Self-Employed,Delhi,0,32900.0,50000.0,742,24,Y
+31,Female,Yes,Graduate,Salaried,Delhi,1,52600.0,50000.0,626,84,N
+22,Male,Yes,Graduate,Self-Employed,Pune,1,63100.0,50000.0,757,60,Y
+27,Male,No,Postgraduate,Self-Employed,Bengaluru,3,66400.0,50000.0,652,60,N
+45,Female,Yes,Graduate,Self-Employed,Mumbai,3,33600.0,50000.0,607,60,N
+45,Female,Yes,Graduate,Self-Employed,Pune,0,60500.0,58000.0,650,36,N
+37,Female,Yes,Postgraduate,Self-Employed,Delhi,3,107300.0,64000.0,496,84,N
+34,Male,Yes,Graduate,Salaried,Delhi,0,62100.0,50000.0,672,24,Y
+58,Male,No,High School,Salaried,Delhi,3,,50000.0,668,36,N
+41,Male,Yes,High School,Self-Employed,Lucknow,1,50100.0,50000.0,738,12,Y
+,Male,Yes,High School,Business,Bengaluru,1,48500.0,50000.0,548,24,N
+64,Female,Yes,High School,Salaried,Bengaluru,2,47500.0,50000.0,761,36,Y
+35,Female,Yes,Graduate,Self-Employed,Delhi,1,48400.0,50000.0,737,36,Y
+30,Female,Yes,Graduate,Salaried,Delhi,3,49200.0,50000.0,768,84,Y
+63,Female,Yes,Graduate,Self-Employed,Bengaluru,4,55300.0,50000.0,676,60,N
+49,Female,No,High School,Business,Mumbai,4,36400.0,50000.0,751,36,N
+34,Female,Yes,Graduate,Salaried,Lucknow,2,51800.0,50000.0,577,36,N
+48,Male,Yes,High School,Salaried,,2,44400.0,50000.0,730,60,Y
+44,Male,Yes,Postgraduate,Salaried,Mumbai,2,,66000.0,626,60,Y
+61,Female,Yes,High School,Salaried,Bengaluru,3,46400.0,50000.0,564,24,N
+32,Female,Yes,Graduate,Salaried,Lucknow,2,58500.0,50000.0,601,36,N
+65,Male,Yes,Graduate,Salaried,Mumbai,2,65400.0,50000.0,680,36,N
+63,Male,Yes,,Salaried,Bengaluru,2,97500.0,73000.0,622,12,N
+29,Female,No,Graduate,Salaried,Lucknow,1,26600.0,50000.0,706,84,N
+28,Male,No,Graduate,Salaried,Delhi,2,33200.0,50000.0,553,36,N
+44,Male,Yes,High School,Self-Employed,Pune,3,50700.0,50000.0,531,24,N
+23,Female,Yes,Postgraduate,Self-Employed,Delhi,2,81800.0,68000.0,776,60,Y
+34,Female,Yes,Graduate,Self-Employed,Bengaluru,4,55500.0,50000.0,743,60,Y
+40,Male,Yes,Graduate,Self-Employed,Pune,4,63900.0,50000.0,607,84,N
+64,Female,Yes,Postgraduate,Self-Employed,Bengaluru,2,98900.0,77000.0,680,12,Y
+65,Male,No,Postgraduate,Salaried,Mumbai,4,87300.0,50000.0,751,36,Y
+27,Female,,High School,Self-Employed,Bengaluru,0,24500.0,50000.0,709,12,N
+,Male,No,High School,Salaried,,4,46500.0,50000.0,690,36,N
+25,Male,Yes,High School,Salaried,Delhi,1,13300.0,50000.0,757,36,N
+,Male,No,High School,Salaried,Delhi,2,59500.0,52000.0,629,36,N
+59,Male,Yes,Graduate,Business,Bengaluru,1,60700.0,50000.0,682,84,N
+61,Female,Yes,Postgraduate,,Mumbai,2,99800.0,50000.0,679,36,Y
+31,Male,,Postgraduate,Salaried,Delhi,1,53400.0,50000.0,661,36,N
+61,Male,No,Graduate,Salaried,Pune,3,79600.0,50000.0,653,12,Y
+26,Male,Yes,Graduate,Salaried,Mumbai,0,38600.0,50000.0,685,24,Y
+44,Female,No,Postgraduate,Self-Employed,Mumbai,4,97600.0,50000.0,682,84,N
+42,Female,Yes,Postgraduate,Self-Employed,Mumbai,4,82800.0,50000.0,607,36,Y
+35,Female,No,High School,Salaried,Delhi,2,,50000.0,736,84,N
+21,Male,Yes,Graduate,Salaried,Bengaluru,2,30900.0,50000.0,612,36,N
+55,Male,Yes,Postgraduate,Salaried,Mumbai,3,91300.0,74000.0,665,36,Y
+36,Male,No,Graduate,Salaried,Delhi,0,41700.0,50000.0,659,36,N
+50,Male,Yes,Graduate,,Lucknow,3,61100.0,58000.0,705,36,N
+39,Female,Yes,Postgraduate,Self-Employed,Pune,1,73100.0,53000.0,532,12,N
+37,Female,Yes,Postgraduate,Salaried,Bengaluru,3,65700.0,52000.0,742,12,Y
+60,Male,Yes,Postgraduate,Salaried,Pune,1,80500.0,50000.0,633,36,Y
+25,Male,Yes,Graduate,Salaried,Lucknow,3,26600.0,50000.0,765,36,Y
+54,Female,Yes,High School,Salaried,Mumbai,3,26600.0,50000.0,647,36,N
+54,Male,Yes,Graduate,Salaried,Bengaluru,1,57000.0,50000.0,677,36,Y
+38,Male,No,Graduate,Salaried,Bengaluru,3,,50000.0,814,24,Y
+32,Male,Yes,Graduate,Business,Delhi,2,30700.0,50000.0,661,60,Y
+21,Male,Yes,Graduate,Salaried,Delhi,1,23600.0,50000.0,767,60,Y
+,Male,Yes,Graduate,Salaried,Delhi,2,99300.0,50000.0,683,12,Y
+63,Male,Yes,Graduate,Salaried,Bengaluru,4,70200.0,50000.0,709,36,Y
+31,Male,Yes,Graduate,Salaried,Pune,0,52900.0,50000.0,685,60,Y
+22,Female,No,Graduate,Self-Employed,Pune,4,48600.0,50000.0,739,60,Y
+26,Male,No,Graduate,Salaried,Mumbai,4,52500.0,50000.0,632,24,N
+24,Male,Yes,,Self-Employed,Delhi,2,12000.0,50000.0,611,84,N
+58,Female,Yes,High School,Self-Employed,Mumbai,3,55500.0,50000.0,635,60,N
+61,Female,Yes,,Salaried,Mumbai,1,76600.0,53000.0,687,36,Y
+27,Male,Yes,Graduate,Self-Employed,,0,74800.0,68000.0,665,60,Y
+54,Male,Yes,High School,Business,Pune,2,35600.0,50000.0,730,84,N
+29,Female,No,Graduate,Salaried,Lucknow,4,34600.0,50000.0,,24,Y
+37,Male,Yes,Graduate,Salaried,Pune,1,41900.0,50000.0,,12,N
+,Male,Yes,High School,Business,Lucknow,3,30400.0,50000.0,629,36,N
+53,Female,Yes,Graduate,Business,Mumbai,3,85000.0,73000.0,579,12,N
+60,Male,Yes,,Salaried,Delhi,3,89200.0,50000.0,822,84,Y
+23,Female,Yes,Graduate,Salaried,Delhi,1,36100.0,50000.0,701,84,Y
+29,Male,Yes,,Salaried,Mumbai,1,16400.0,50000.0,714,60,N
+33,Female,No,High School,Self-Employed,Delhi,2,12000.0,50000.0,586,84,N
+34,Male,Yes,High School,Salaried,Delhi,4,33800.0,50000.0,680,12,N
+65,Male,Yes,Graduate,Salaried,Lucknow,4,75800.0,55000.0,716,60,Y
+55,Male,Yes,High School,Self-Employed,Delhi,2,47800.0,50000.0,662,36,N
+35,Male,No,Postgraduate,Business,Lucknow,4,75300.0,50000.0,755,24,Y
+64,Female,Yes,High School,Self-Employed,Pune,2,68400.0,50000.0,842,24,Y
+43,Male,No,Graduate,Salaried,Bengaluru,1,63700.0,50000.0,614,36,N
+43,Male,No,Graduate,Salaried,Bengaluru,0,56000.0,50000.0,608,60,N
+40,Female,Yes,Graduate,Business,Mumbai,3,43900.0,50000.0,619,12,N
+27,Female,No,High School,Business,Bengaluru,3,38400.0,50000.0,792,60,Y
+63,Male,Yes,Postgraduate,Salaried,,4,98000.0,50000.0,753,84,Y
+21,Male,No,Postgraduate,Self-Employed,Lucknow,3,70700.0,65000.0,671,12,N
+28,Female,Yes,High School,Salaried,Mumbai,0,40800.0,50000.0,683,84,N
+31,Female,No,High School,Salaried,Delhi,2,16900.0,50000.0,623,60,N
+,Female,Yes,Postgraduate,Salaried,Bengaluru,3,53600.0,50000.0,742,24,Y
+26,Female,Yes,Graduate,Salaried,Bengaluru,2,35400.0,50000.0,653,60,N
+21,Female,Yes,High School,Salaried,Mumbai,2,12300.0,50000.0,662,60,N
+51,Male,No,High School,,Bengaluru,4,61100.0,50000.0,723,60,Y
+64,Male,Yes,Graduate,Salaried,Delhi,3,82900.0,50000.0,667,12,Y
+26,Male,Yes,Graduate,Salaried,Bengaluru,3,,50000.0,664,12,Y
+34,Female,No,Graduate,Salaried,Delhi,2,56500.0,50000.0,681,60,Y
+43,Female,No,Postgraduate,Salaried,Delhi,1,82300.0,50000.0,736,24,N
+62,Male,Yes,Graduate,Salaried,Delhi,2,91300.0,50000.0,795,24,Y
+52,Male,Yes,Graduate,Salaried,Mumbai,4,73500.0,50000.0,721,36,Y
+,Male,Yes,Graduate,,Mumbai,3,,50000.0,736,60,Y
+47,Female,No,Graduate,Self-Employed,Mumbai,3,81200.0,50000.0,666,12,Y
+39,Male,Yes,High School,Business,Delhi,0,42600.0,50000.0,,84,N
+29,Male,No,,Salaried,Delhi,4,28500.0,50000.0,726,36,N
+59,Male,Yes,Graduate,Business,Mumbai,1,64100.0,50000.0,692,12,Y
+57,Male,Yes,,Business,Delhi,4,80800.0,50000.0,580,12,N
+22,Male,Yes,High School,Self-Employed,Bengaluru,2,40700.0,50000.0,,84,N
+53,Male,Yes,Graduate,Self-Employed,Lucknow,4,68200.0,50000.0,674,12,N
+24,Male,No,Graduate,Self-Employed,Mumbai,4,58400.0,50000.0,644,36,N
+54,Male,Yes,Graduate,,Lucknow,3,46100.0,50000.0,784,60,Y
+58,Male,Yes,Graduate,Self-Employed,Delhi,4,72600.0,50000.0,714,36,N
+26,Male,No,,Salaried,Delhi,3,64000.0,61000.0,776,24,Y
+40,Male,No,Graduate,Business,Bengaluru,4,48400.0,50000.0,,12,N
+26,Female,No,High School,Salaried,Pune,0,58100.0,50000.0,686,60,N
+46,Male,Yes,Graduate,,Pune,0,61700.0,50000.0,614,36,N
+62,Male,Yes,Graduate,Salaried,Delhi,2,72000.0,50000.0,681,12,Y
+24,Male,No,High School,Salaried,Pune,4,28000.0,50000.0,,12,N
+38,Male,Yes,High School,Salaried,Mumbai,3,16300.0,50000.0,,36,N
+64,Male,Yes,High School,Salaried,Mumbai,2,54600.0,50000.0,642,12,N
+,Male,No,Graduate,Salaried,Delhi,2,63500.0,50000.0,657,24,N
+26,Female,,Graduate,Salaried,Lucknow,3,37000.0,50000.0,709,12,N
+,Male,Yes,High School,Salaried,Delhi,4,,50000.0,,60,Y
+43,Male,,Postgraduate,Salaried,Pune,4,95500.0,84000.0,639,60,N
+50,Male,,Postgraduate,Salaried,Bengaluru,0,102200.0,50000.0,713,60,Y
+35,Male,Yes,,Business,Bengaluru,2,,50000.0,667,12,Y
+64,Male,Yes,Postgraduate,Salaried,Bengaluru,1,93200.0,50000.0,479,24,N
+44,Female,Yes,High School,Salaried,Pune,3,42800.0,50000.0,646,24,N
+33,Female,Yes,Postgraduate,Salaried,Delhi,2,61200.0,55000.0,756,60,Y
+64,Male,No,Postgraduate,Salaried,Delhi,4,86800.0,50000.0,562,84,N
+62,Male,No,High School,Salaried,Bengaluru,2,49400.0,50000.0,688,24,N
+43,Male,Yes,Graduate,Self-Employed,Mumbai,3,52400.0,50000.0,791,60,Y
+22,Male,Yes,Postgraduate,Business,Delhi,0,48500.0,50000.0,627,36,N
+,Female,No,Postgraduate,Salaried,Delhi,4,64600.0,53000.0,680,84,Y
+45,Male,Yes,Postgraduate,Self-Employed,Mumbai,0,84200.0,50000.0,589,12,Y
+27,Male,Yes,Graduate,Salaried,Delhi,1,48200.0,50000.0,794,84,Y
+49,Female,Yes,High School,Salaried,Delhi,4,70600.0,50000.0,674,36,N
+58,Male,No,,Salaried,Lucknow,4,85300.0,50000.0,683,24,N
+25,Male,Yes,Graduate,Salaried,Mumbai,2,,50000.0,775,12,Y
+53,Female,No,Graduate,Self-Employed,Lucknow,2,72600.0,50000.0,726,84,Y
+27,Male,Yes,Graduate,Self-Employed,Lucknow,0,339200.0,50000.0,619,84,N
+54,Male,Yes,Graduate,Self-Employed,Delhi,4,78600.0,56000.0,635,12,N
+39,Male,Yes,High School,Salaried,Bengaluru,0,50500.0,50000.0,715,36,Y
+21,Female,Yes,Graduate,Self-Employed,,0,43900.0,50000.0,636,60,N
+64,Male,Yes,High School,Salaried,Bengaluru,2,60600.0,50000.0,532,36,N
+28,Male,Yes,Graduate,Salaried,Delhi,0,42000.0,50000.0,676,12,N
+47,Male,Yes,Postgraduate,Salaried,Delhi,0,67000.0,58000.0,576,24,N
+29,Male,Yes,Graduate,Self-Employed,Delhi,3,300000.0,50000.0,793,24,Y
+62,Female,Yes,Graduate,Business,Bengaluru,3,69400.0,50000.0,692,24,Y
+54,Male,Yes,Graduate,Salaried,Lucknow,1,56200.0,50000.0,617,84,N
+57,Male,No,Postgraduate,Salaried,Bengaluru,3,97700.0,75000.0,631,24,N
+40,Male,Yes,Graduate,Self-Employed,Bengaluru,3,71500.0,68000.0,548,60,N
+42,Female,No,Graduate,Self-Employed,Lucknow,1,48000.0,50000.0,603,84,N
+49,Male,No,High School,Salaried,Bengaluru,3,53600.0,50000.0,751,60,Y
+56,Female,Yes,High School,Self-Employed,Delhi,2,44100.0,50000.0,836,60,Y
+59,Female,No,Graduate,Self-Employed,Pune,4,70500.0,60000.0,731,12,Y
+21,Male,No,Postgraduate,Business,Mumbai,0,51700.0,50000.0,674,12,N
+50,Female,Yes,Graduate,Salaried,Delhi,1,73300.0,50000.0,650,60,Y
+25,Female,Yes,High School,Business,Mumbai,1,20500.0,50000.0,,60,N
+33,Male,Yes,Postgraduate,Salaried,Lucknow,1,82900.0,63000.0,824,60,Y
+58,Female,Yes,Graduate,Self-Employed,Delhi,4,70400.0,60000.0,667,36,Y
+32,Male,Yes,Postgraduate,Salaried,Mumbai,3,62100.0,50000.0,828,36,Y
+,Female,No,High School,Salaried,Delhi,2,41500.0,50000.0,778,12,N
+41,Female,,Graduate,Salaried,Delhi,2,61000.0,50000.0,558,24,N
+31,Male,Yes,Postgraduate,Salaried,Delhi,4,79700.0,50000.0,633,36,N
+36,Female,No,High School,Salaried,Bengaluru,2,41800.0,50000.0,633,12,N
+44,Male,Yes,Graduate,Salaried,Pune,1,87600.0,70000.0,674,12,Y
+55,Female,No,Postgraduate,Salaried,Delhi,0,107800.0,102000.0,676,12,Y
+48,Female,Yes,High School,Salaried,Delhi,1,45600.0,50000.0,890,24,Y
+62,Male,No,High School,Self-Employed,Delhi,3,58100.0,50000.0,605,84,N
+,Male,No,Graduate,Business,Delhi,2,80700.0,50000.0,696,60,Y
+54,Male,Yes,Graduate,Self-Employed,Bengaluru,2,59600.0,50000.0,723,84,Y
+,Male,Yes,High School,Salaried,Bengaluru,2,63300.0,50000.0,680,24,Y
+34,Male,No,Graduate,Salaried,Bengaluru,4,56000.0,50000.0,688,36,N
+39,Male,Yes,Graduate,Business,Mumbai,4,59300.0,50000.0,607,84,N
+26,Male,Yes,High School,Salaried,Bengaluru,0,,50000.0,687,24,N
+37,Male,No,Graduate,Salaried,,0,75100.0,50000.0,716,60,Y
+62,Female,Yes,Postgraduate,Business,Delhi,1,,80000.0,703,60,Y
+40,Female,Yes,Graduate,Business,Lucknow,4,55700.0,50000.0,720,84,N
+26,Female,Yes,Postgraduate,Salaried,Pune,2,82600.0,56000.0,779,84,Y
+50,Male,Yes,,Self-Employed,Lucknow,4,77700.0,69000.0,746,60,Y
+64,Female,No,Postgraduate,Salaried,Lucknow,3,94800.0,61000.0,685,36,Y
+,Male,Yes,Graduate,Self-Employed,Bengaluru,2,75200.0,50000.0,598,84,Y
+33,Male,Yes,High School,Salaried,Lucknow,1,38100.0,50000.0,638,60,N
+41,Male,Yes,Postgraduate,Salaried,Mumbai,1,82300.0,55000.0,665,24,Y
+44,Female,No,,Self-Employed,Delhi,0,44400.0,50000.0,698,60,N
+32,Male,Yes,High School,Salaried,Delhi,2,16400.0,50000.0,647,36,N
+33,Male,No,High School,Self-Employed,Delhi,1,25200.0,50000.0,614,24,N
+31,Female,No,Graduate,Salaried,Delhi,1,37400.0,50000.0,597,36,N
+65,Male,No,High School,Business,Mumbai,0,56900.0,50000.0,564,60,N
+54,Male,No,High School,Self-Employed,Bengaluru,3,62300.0,50000.0,664,84,Y
+58,Female,No,High School,Salaried,Pune,4,56300.0,50000.0,577,36,N
+57,Male,No,Graduate,Self-Employed,,2,74800.0,50000.0,610,12,Y
+64,Male,Yes,Graduate,Salaried,Delhi,2,64000.0,52000.0,652,84,N
+,Female,No,Graduate,,Bengaluru,4,38100.0,50000.0,586,36,N
+60,Female,Yes,High School,Salaried,Mumbai,2,67100.0,50000.0,707,24,N
+23,Male,Yes,,Business,Delhi,3,33900.0,50000.0,732,60,N
+42,Female,No,Graduate,Self-Employed,Delhi,2,50200.0,50000.0,642,24,Y
+47,Male,No,Graduate,Business,Mumbai,2,65300.0,59000.0,649,24,Y
+37,Male,No,Graduate,Business,Delhi,2,80800.0,50000.0,718,84,Y
+27,Male,Yes,High School,Business,Pune,3,30200.0,50000.0,630,84,N
+,Male,Yes,High School,Salaried,Pune,3,23900.0,50000.0,625,36,N
+58,Female,Yes,High School,Business,Bengaluru,2,56200.0,50000.0,764,24,Y
+35,Female,Yes,Graduate,,Delhi,0,53700.0,50000.0,742,84,Y
+34,Male,Yes,Graduate,Salaried,Pune,4,49900.0,50000.0,722,12,Y
+62,Male,Yes,Postgraduate,Salaried,Bengaluru,4,96500.0,50000.0,745,60,Y
+27,Male,Yes,Graduate,Salaried,Delhi,0,28100.0,50000.0,542,36,N
+62,Female,No,Graduate,Salaried,Bengaluru,1,65300.0,50000.0,775,84,Y
+,Male,Yes,Graduate,Salaried,Mumbai,4,75100.0,50000.0,707,36,Y
+47,Female,No,,Salaried,Mumbai,1,,50000.0,751,84,Y
+28,Male,Yes,Graduate,Salaried,Delhi,4,39500.0,50000.0,707,12,N
+28,Male,Yes,Graduate,Business,Mumbai,3,44200.0,50000.0,683,60,N
+33,Female,Yes,Graduate,Self-Employed,Delhi,4,51500.0,50000.0,661,12,N
+46,Female,Yes,High School,Salaried,Delhi,0,58200.0,50000.0,706,60,N
+27,Male,No,Graduate,Salaried,Delhi,2,44200.0,50000.0,658,12,Y
+41,Female,Yes,Postgraduate,Salaried,Lucknow,2,82800.0,72000.0,,84,Y
+26,Female,Yes,High School,Salaried,Delhi,4,23000.0,50000.0,569,60,N
+45,Male,No,Graduate,Self-Employed,Mumbai,1,68500.0,50000.0,642,12,N
+21,Male,No,Graduate,Salaried,Mumbai,1,44500.0,50000.0,823,84,Y
+,Male,Yes,High School,Self-Employed,Pune,0,63300.0,50000.0,636,24,N
+23,Female,Yes,Graduate,Self-Employed,Bengaluru,3,,50000.0,663,36,Y
+29,Male,Yes,Graduate,Salaried,Lucknow,4,54300.0,50000.0,618,12,N
+28,Male,Yes,Postgraduate,Business,Delhi,0,65100.0,50000.0,704,12,Y
+58,Male,Yes,Postgraduate,Salaried,Delhi,1,96200.0,52000.0,628,24,Y
+23,Female,Yes,High School,Business,Bengaluru,1,39600.0,50000.0,667,36,N
+,Male,No,Graduate,Self-Employed,Mumbai,4,49300.0,50000.0,739,36,Y
+47,Female,,Graduate,Self-Employed,Pune,2,55900.0,51000.0,631,84,N
+44,Male,Yes,High School,Self-Employed,Pune,1,47900.0,50000.0,735,12,N
+,Female,Yes,Graduate,Self-Employed,Mumbai,1,72000.0,50000.0,,60,Y
+57,Male,No,Postgraduate,Business,Lucknow,2,82500.0,75000.0,754,12,Y
+38,Male,Yes,High School,Salaried,Bengaluru,1,,50000.0,690,24,N
+,Female,No,Graduate,Self-Employed,Delhi,0,72200.0,50000.0,900,12,Y
+35,Female,No,Postgraduate,Self-Employed,Mumbai,4,46000.0,50000.0,754,12,Y
+,Male,Yes,Graduate,Salaried,Delhi,2,,55000.0,703,36,Y
+43,Male,Yes,Graduate,Business,Pune,1,57900.0,50000.0,619,84,Y
+54,Female,Yes,Postgraduate,Salaried,Delhi,3,87800.0,50000.0,673,60,Y
+60,Female,Yes,Graduate,Salaried,Mumbai,3,,69000.0,780,84,Y
+56,Male,No,High School,,,0,41900.0,50000.0,800,36,Y
+59,Male,,High School,Salaried,Delhi,0,49300.0,50000.0,783,12,Y
+45,Female,No,Postgraduate,Self-Employed,Delhi,0,50300.0,50000.0,735,24,Y
+22,Female,Yes,High School,Salaried,Bengaluru,3,,50000.0,592,84,N
+43,Female,Yes,Graduate,,Delhi,3,55100.0,50000.0,714,12,N
+29,Male,Yes,High School,Salaried,,3,26100.0,50000.0,593,12,N
+61,Male,,Graduate,Salaried,Mumbai,3,89300.0,50000.0,576,84,Y
+31,Female,No,,Self-Employed,Delhi,2,79300.0,50000.0,697,12,Y
+31,Female,Yes,Graduate,Business,Delhi,2,49900.0,50000.0,717,84,N
+32,Female,,Postgraduate,Salaried,Pune,3,65500.0,50000.0,743,60,Y
+49,Male,No,High School,Salaried,Lucknow,1,62500.0,50000.0,715,60,Y
+46,Male,Yes,,Salaried,Delhi,4,62300.0,60000.0,717,36,Y
+63,Female,No,,Self-Employed,Lucknow,4,88000.0,79000.0,611,12,Y
+39,Male,Yes,Graduate,Salaried,Bengaluru,4,35600.0,50000.0,673,36,N
+33,Female,Yes,High School,Salaried,Bengaluru,4,30500.0,50000.0,575,84,N
+23,Male,Yes,Postgraduate,Salaried,Bengaluru,1,,61000.0,540,84,N
+21,Female,Yes,Graduate,Salaried,Bengaluru,0,67300.0,50000.0,732,36,Y
+37,Female,Yes,Graduate,Salaried,Pune,2,55100.0,50000.0,627,84,N
+62,Male,Yes,Postgraduate,Salaried,Mumbai,3,87700.0,50000.0,741,60,Y
+44,Male,No,High School,Self-Employed,Mumbai,3,31500.0,50000.0,758,12,Y
+61,Female,Yes,Graduate,Self-Employed,Mumbai,1,82600.0,50000.0,,60,N
+25,Male,Yes,High School,Salaried,Delhi,1,12000.0,50000.0,721,60,Y
+25,Male,Yes,Graduate,Self-Employed,Bengaluru,2,50200.0,50000.0,634,36,N
+,Female,Yes,High School,Business,Delhi,4,68100.0,63000.0,551,60,N
+25,Female,Yes,Graduate,Salaried,Delhi,0,48800.0,50000.0,689,84,N
+,Male,Yes,High School,Salaried,Delhi,1,24200.0,50000.0,647,36,N
+39,Male,Yes,Graduate,,Delhi,1,63000.0,50000.0,649,24,Y
+62,Male,Yes,,,Bengaluru,4,64000.0,50000.0,818,84,Y
+52,Male,No,Graduate,Salaried,Bengaluru,2,58600.0,50000.0,573,84,N
+25,Male,Yes,Graduate,Self-Employed,Mumbai,0,65800.0,52000.0,707,60,Y
+58,Male,No,Graduate,Salaried,Delhi,1,69100.0,50000.0,610,60,N
+58,Female,Yes,Graduate,Salaried,Mumbai,0,82600.0,50000.0,744,12,Y
+,Male,Yes,Graduate,,Mumbai,2,,50000.0,701,36,Y
+61,Female,No,Postgraduate,Salaried,Bengaluru,4,111300.0,64000.0,707,12,Y
+31,Male,Yes,Graduate,Business,Bengaluru,2,66600.0,55000.0,614,36,N
+65,Male,No,High School,,Mumbai,4,65000.0,50000.0,626,84,N
+35,Female,Yes,Postgraduate,Business,Mumbai,3,79300.0,50000.0,745,24,Y
+57,Female,Yes,Graduate,Salaried,Lucknow,4,79100.0,53000.0,804,84,Y
+47,Male,No,High School,Self-Employed,Pune,1,325600.0,50000.0,714,12,Y
+56,Male,Yes,Graduate,Salaried,Mumbai,4,78100.0,51000.0,617,12,N
+49,Male,Yes,High School,Salaried,Mumbai,1,40500.0,50000.0,704,84,N
+49,Male,No,High School,,Delhi,2,42900.0,50000.0,850,12,Y
